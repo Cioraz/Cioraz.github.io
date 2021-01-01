@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Main{
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(Images/y.jpg);
+    background-size: cover;
+    height: 120vh;
+    background-position: center;
+}
+
+.Text{
+    text-align: center;
+    font-family: Century Gothic;
+}
+.Text h1{
+    padding: 10px;
+    font-size: 40px;
+    color: tomato;
+}
+
+.Box-1{
+    float:left;
+    width: 500px;
+    height: 500px;
+    font-family: Century Gothic;
+    color: #fff;
+    padding: 100px;
+    font-size: 20px;
+}
+
+.Images{
+    float: right;
+    padding: 20px;
+    width: 600px;
+    height: 500px;
+}
+
+.Image1{
+    height: 400px;
+    width: 500px;
+    padding: 100px;
+}
+
+
+.Image2{
+    height: 300px;
+    width: 400px;
+    padding: 50px;
+}
+
+
+.Image3{
+    height: 300px;
+    width: 400px;
+    padding: 50px;
+}
+
+.Image4{
+    height: 300px;
+    width: 300px;
+    padding: 50px;
+}
+

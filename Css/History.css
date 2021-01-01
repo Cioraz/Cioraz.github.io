@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Main{
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(Images/y.jpg);
+    background-size: cover;
+    height: 120vh;
+    background-position: center;
+    padding:20px;
+}
+
+.Text{
+    text-align: center;
+    font-family: Century Gothic;
+}
+
+.Text h1{
+    color: tomato;
+    padding: 40px;
+    font-size:40px;
+}
+
+.Box-1{
+    float:left;
+    width: 500px;
+    height: 500px;
+    font-family: Century Gothic;
+    color: #fff;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.Images{
+    float: right;
+    padding: 40px;
+    width: 600px;
+    height: 500px;
+
+    
+}
+
+.Image1{
+    padding: 20px;
+    height: 400px;
+    width: 500px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
